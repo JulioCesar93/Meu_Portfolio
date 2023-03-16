@@ -35,7 +35,7 @@ a:hover {
     width: 100%;
     background: rgba(196, 196, 196, 0.11);
     backdrop-filter: blur(10px);
-    position: none;
+    position: none;  /* fixed */
     top: 0;
     z-index: 1;
     border-bottom: solid 1px rgba(255, 255, 255, 0.452);

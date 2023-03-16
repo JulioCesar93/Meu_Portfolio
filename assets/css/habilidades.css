@@ -42,7 +42,7 @@
 }
 
 .skill-box:hover {
-    background-color: white;
+    background-color: none;
     transform: scale(1.05);
 }
 
@@ -103,44 +103,43 @@
 }
 
 .skill1{
-    background-image: url(../img/html2.svg);
+    background-image: url(../img/html-logo.png);
 }
 
 .skill2 {
-    background-image: url(../img/css2.svg);
+    background-image: url(../img/css-logo.png);
 }
 
 .skill3 {
-    background-image: url(../img/js2.svg);
+    background-image: url(../img/javascript-logo2.png);
 }
 
 .skill4 {
-    background-image: url(../img/node2.svg);
+    background-image: url(../img/nodejs-logo.png);
 }
 
 .skill5 {
-    background-image: url(../img/php2.svg);
+    background-image: url(../img/reactjs-logo.png);
 }
 
 .skill6 {
-    background-image: url(../img/java2.svg);
+    background-image: url(../img/postgresql-logo.png);
 }
 
 .skill7 {
-    background-image: url(../img/react2.svg);
+    background-image: url(../img/Go3.svg);
 }
 
 .skill8 {
-    background-image: url(../img/styled\ 2.svg);
+    background-image: url(../img/github-logo.png);
 }
 
 .skill9 {
-    background-image: url(../img/git2.svg);
+    background-image: url(../img/git-logo.png);
 }
 
-
 .skill10 {
-    background-image: url(../img/github2.svg);
+    background-image: url(../img/);
 }
 
 .skill11 {
@@ -153,6 +152,14 @@
 
 .skill13 {
     background-image: url(../img/sass2.svg);
+}
+
+.skill14 {
+    background-image: url(../img/);
+}
+
+.skill15 {
+    background-image: url(../img/);
 }
 
 #fundo {
